@@ -1,0 +1,24 @@
+{
+  "name": "set",
+  "version": "1.0.0",
+  "description": "TITLE:  Crew - Responsive Free HTML5 template",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "sass --watch sass/style.scss:css/style.css",
+    "server": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srosenbauer/suitsVSgeeks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srosenbauer/suitsVSgeeks/issues"
+  },
+  "homepage": "https://github.com/srosenbauer/suitsVSgeeks#readme"
+}
